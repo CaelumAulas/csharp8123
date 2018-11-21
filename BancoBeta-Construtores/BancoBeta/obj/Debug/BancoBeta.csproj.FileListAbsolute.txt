@@ -1,0 +1,10 @@
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.csprojAssemblyReference.cache
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.Form1.resources
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.Properties.Resources.resources
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.csproj.GenerateResource.cache
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\bin\Debug\BancoBeta.exe.config
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\bin\Debug\BancoBeta.exe
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\bin\Debug\BancoBeta.pdb
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.exe
+C:\Users\Lucas Felix\source\repos\BancoBeta\BancoBeta\obj\Debug\BancoBeta.pdb
