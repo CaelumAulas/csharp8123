@@ -1,0 +1,10 @@
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe.config
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\bin\Debug\Funcionarios.pdb
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csprojAssemblyReference.cache
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Form1.resources
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Properties.Resources.resources
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.GenerateResource.cache
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.exe
+C:\Users\Lucas Felix\source\repos\Funcionarios\Funcionarios\obj\Debug\Funcionarios.pdb
