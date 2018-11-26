@@ -1,0 +1,11 @@
+C:\Users\Lucas Felix\source\repos\Banco\Banco\bin\Release\Banco.exe.config
+C:\Users\Lucas Felix\source\repos\Banco\Banco\bin\Release\Banco.exe
+C:\Users\Lucas Felix\source\repos\Banco\Banco\bin\Release\Banco.pdb
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.csprojAssemblyReference.cache
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.Form1.resources
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.FormCadastro.resources
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.Properties.Resources.resources
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.csproj.GenerateResource.cache
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.exe
+C:\Users\Lucas Felix\source\repos\Banco\Banco\obj\Release\Banco.pdb
